@@ -2,26 +2,33 @@
 
 # 刘白
 
-### 👨‍💻 全栈开发工程师
+### 我是刘白，聊 AI，聊搞钱，也认真生活。
 
-**从业务理解、系统架构到 AI Agent 与生产交付，把想法真正做成可运行、可验证、可演进的产品。**
+**写代码，也写字。把 AI 变成能省时间、能赚钱的真东西，每一个都亲手做过。**
 
 <p>
   <a href="https://kunai.one/"><img src="https://img.shields.io/badge/KunAI-AI_API_Platform-6366F1?style=for-the-badge" alt="KunAI" /></a>
   <a href="https://image.kunai.one/"><img src="https://img.shields.io/badge/KunAI_Studio-AI_Visual_Workbench-E11D48?style=for-the-badge" alt="KunAI Studio" /></a>
   <a href="https://blog.csdn.net/lk1048"><img src="https://img.shields.io/badge/CSDN-Tech_Blog-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN" /></a>
   <a href="https://clawhub.ai/liubai00"><img src="https://img.shields.io/badge/ClawHub-Agent_Skills-0F172A?style=for-the-badge" alt="ClawHub" /></a>
+  <img src="https://img.shields.io/badge/微信公众号-刘白聊AI-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信公众号：刘白聊AI" />
 </p>
 
 </div>
 
+## ✍️ 我在写什么
+
+我在微信公众号 **「刘白聊AI」** 连载 **《刘白的100个AI应用》**：每篇只讲一个我亲手搭起来、自己在用的 AI 应用，写清楚它解决什么问题、怎么搭、花了多少时间和钱、踩了哪些坑，最后附上可以直接抄走的提示词和配置。
+
+微信搜索「刘白聊AI」就能找到我。
+
 ## 🚀 关于我
 
-一名跟随 AI 时代持续进化的**全栈开发工程师**。
+白天写代码，晚上折腾 AI。一个跟着 AI 时代持续进化的**全栈开发者**。
 
 以 **Java / Spring Boot** 为工程底座，同时使用 Go、Python、React / TypeScript 与数据基础设施完成端到端开发。能够从需求和业务建模出发，打通后端架构、前端体验、数据链路、AI 能力接入、自动化验证与生产发布，让项目不止停留在 Demo，而是真正进入可运行、可维护、可迭代的状态。
 
-我正在构建的不只是普通应用，还包括多模型 AI 平台、视觉创作工作台、电力交易与储能运维智能体、气象 Agent、具身机器人交互，以及面向 Coding Agent 的工程化 Skills。
+我正在构建的不只是普通应用，还包括多模型 AI 平台、视觉创作工作台、行业智能体、AI 短剧与视频生成，以及面向 Coding Agent 的工程化 Skills。
 
 > **目标：让 AI 从“会回答问题的工具”，进化成“能够理解系统、调用工具、完成任务并对结果负责的工程参与者”。**
 
@@ -70,7 +77,8 @@
 | --- | --- |
 | 🌐 **AI 基础设施** | 多模型 API 聚合、统一密钥、用量计费、支付链路与稳定转发 |
 | 🖼️ **AI 视觉创作** | 图像生成、参考图编辑、多轮 Agent、资产管理与工作流编排 |
-| ⚡ **行业智能体** | 电力交易、储能运维、气象服务与具身机器人交互 |
+| 🎬 **AI 视频与短剧** | 用 Seedance 等视频模型从剧本到成片，跑通 AI 短剧制作流程 |
+| ⚡ **行业智能体** | 面向具体业务的 Agent、飞书自动化与多智能体协作 |
 | 🧩 **Agent 工程能力** | Coding Agent Skills、真实浏览器 QA、工程基线、评测与自动化 |
 
 ## 🌟 代表项目
@@ -86,6 +94,7 @@
 
 ## 🌍 找到我
 
+- 📮 微信公众号「刘白聊AI」：《刘白的100个AI应用》连载中
 - 🌐 [KunAI — 一站式 AI API 聚合平台](https://kunai.one/)
 - 🎨 [KunAI Studio — AI 视觉创作工作台](https://image.kunai.one/)
 - ✍️ [CSDN · 有见寒舍 — Java 与工程实践博客](https://blog.csdn.net/lk1048)
