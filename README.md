@@ -83,7 +83,7 @@
 
 ## 📌 最新开源：派活 Paihuo
 
-<a href="https://github.com/liubai00/ACP"><img src="assets/paihuo.png" width="760" alt="派活 Paihuo：群里说一句话，换回一个有人把关的 Merge Request" /></a>
+<a href="https://github.com/liubai00/paihuo"><img src="assets/paihuo.png" width="760" alt="派活 Paihuo：群里说一句话，换回一个有人把关的 Merge Request" /></a>
 
 团队里人人都有了 Claude Code / Codex，可协作还停在群里喊。**派活**把飞书里的一句需求变成有编号的任务，交给认领者电脑上的 Agent 去做，再把 MR、CI 和人工审批串成一条谁都看得见的流水线。
 
@@ -91,13 +91,13 @@
 - 大模型只提建议，状态和权限由代码裁决
 - 开工前本人确认，合并前评审者确认，平台从不自动合并
 
-[仓库与文档 →](https://github.com/liubai00/ACP)
+[仓库与文档 →](https://github.com/liubai00/paihuo)
 
 ## 🌟 代表项目
 
 | 项目 | 简介 |
 | --- | --- |
-| [**派活 Paihuo**](https://github.com/liubai00/ACP) | 群里说一句话，换回一个有人把关的 Merge Request。把每个人电脑上的 Claude Code / Codex 连成团队：飞书建单、A2A 派工、GitLab CI 与人工审批，可自部署（v0.1，Apache-2.0） |
+| [**派活 Paihuo**](https://github.com/liubai00/paihuo) | 群里说一句话，换回一个有人把关的 Merge Request。把每个人电脑上的 Claude Code / Codex 连成团队：飞书建单、A2A 派工、GitLab CI 与人工审批，可自部署（v0.1，Apache-2.0） |
 | [**liubai-upload**](https://github.com/liubai00/liubai-upload) | Spring Boot 大文件分片、断点续传、智能去重与 SHA-256 完整性校验组件 |
 | [**project-engineering**](https://github.com/liubai00/project-engineering) | 让 Coding Agent 按真实工程约束完成架构、开发、验证和交付 |
 | [**webapp-qa-loop**](https://github.com/liubai00/webapp-qa-loop) | 面向真实浏览器的审计、修复、发布与回归工作流 |
