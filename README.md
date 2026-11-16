@@ -85,6 +85,7 @@
 
 | 项目 | 简介 |
 | --- | --- |
+| [**ACP**](https://github.com/liubai00/ACP) | 可自托管的多 Agent 协作平台，连接飞书、Codex / Claude Code 与 GitLab，集中跟踪任务和人工审批（Alpha） |
 | [**liubai-upload**](https://github.com/liubai00/liubai-upload) | Spring Boot 大文件分片、断点续传、智能去重与 SHA-256 完整性校验组件 |
 | [**project-engineering**](https://github.com/liubai00/project-engineering) | 让 Coding Agent 按真实工程约束完成架构、开发、验证和交付 |
 | [**webapp-qa-loop**](https://github.com/liubai00/webapp-qa-loop) | 面向真实浏览器的审计、修复、发布与回归工作流 |
